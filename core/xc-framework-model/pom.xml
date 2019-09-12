@@ -12,7 +12,7 @@
 
     <artifactId>xc-framework-model</artifactId>
 
-<dependencies>
+    <dependencies>
     <dependency>
         <groupId>com.xuecheng</groupId>
         <artifactId>xc-framework-common</artifactId>
